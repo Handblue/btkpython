@@ -1,2 +1,2 @@
-# btkpython
+# BTK Python
 BTK python kurs günlükleri
